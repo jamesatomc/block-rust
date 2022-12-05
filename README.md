@@ -22,8 +22,12 @@
   DAG, PoS, snark smart contracts (substrate based).
 - [Anoma.network](https://anoma.network/).
   PoS blockchain with privacy.
+- [Aptos Network](https://aptoslabs.com/).
+  Building the safest and most scalable Layer 1 blockchain..
 - [Bitcoin Cash](https://github.com/be-cash/bitcoin-cash).
   A library for creating and parsing Bitcoin Cash trasactions.
+- [Casper](https://github.com/casper-network/casper-node).
+  A decentralized L1 PoS blockchain designed to accelerate enterprise and developer adoption.
 - [CITA](https://github.com/cryptape/cita).
   A high performance blockchain kernel for enterprise users.
 - [CodeChain](https://github.com/CodeChain-io/codechain).
@@ -48,7 +52,7 @@
 - [Forest](https://github.com/ChainSafe/forest).
   An implementation of Filecoin written in Rust.
 - [Fuel](https://github.com/FuelLabs/fuel-core).
-  Rust full node implementation of the Fuel v2 protocol.
+  Rust full node implementation of the Fuel protocol.
 - [Gear](https://github.com/gear-tech/gear).
   Computational component of Polkadot network.
 - [Grin](https://github.com/mimblewimble/grin).
@@ -62,6 +66,9 @@
 - [Interledger](https://github.com/interledger-rs/interledger-rs).
   An easy-to-use, high-performance Interledger implementation written
   in Rust.
+- [Internet Computer Protocol (ICP)](https://github.com/dfinity/ic).
+  The world’s first blockchain that runs at web speed and can increase 
+  its capacity without bound.
 - [Internet of People](https://github.com/Internet-of-People/iop-rs).
   Decentralized software stack that provides the building blocks and
   tools to support a decentralized society.
@@ -101,6 +108,10 @@
   Post-quantum blockchain.
 - [Radix](https://github.com/radixdlt/radixdlt-scrypto).
   Sharded smart contract DeFi platform.
+- [Setheum](https://github.com/Setheum-Labs/Setheum).
+  SETHEUM : “Secure Evergreen Truthful Heterogeneous Economically Unbiased Market”
+  is an Ethical DeFi-friendly Blockchain (built on Substrate) working on achieving
+  mass adoption, security, scalability, affordability, inclusivity and ethical DeFi Governance.
 - [Shasper](https://github.com/paritytech/shasper).
   Parity Shasper beacon chain implementation using the Substrate
   framework.
@@ -108,6 +119,10 @@
   Blockchain Rebuilt for Scale.
 - [Stacks 2.0](https://github.com/blockstack/stacks-blockchain).
   Proof of Transfer blockchain from Blockstack.
+- [Sui Network](https://sui.io/).
+  A next-generation smart contract platform with high throughput, low
+  latency, and an asset-oriented programming model powered by the Move
+  programming language.
 - [Tari](https://github.com/tari-project).
   The Tari Digital Assets Protocol.
 - [Tendermint](https://github.com/informalsystems/tendermint-rs).
@@ -134,7 +149,8 @@
 - [Orga](https://github.com/nomic-io/orga).
   A high-performance state machine engine designed for
   Tendermint-based blockchain applications.
-
+- [Anchor](https://github.com/coral-xyz/anchor)
+  is a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts.
 ## Cross-Chain
 - [Comit](https://comit.network/) is an open protocol facilitating
   trustless cross-blockchain applications.
@@ -150,7 +166,7 @@
 - [EVM Parity](https://github.com/paritytech/parity-ethereum/tree/master/evmbin).
   Parity implementation of EVM.
 - [FuelVM](https://github.com/FuelLabs/fuel-vm)
-  FuelVM interpreter in Rust.
+  Interpreter for the FuelVM, a blazingly fast blockchain virtual machine.
 - [Lunatic](https://github.com/lunatic-solutions/lunatic).
   Erlang-inspired runtime for WebAssembly.
 - [Polygon Miden](https://github.com/maticnetwork/miden).
@@ -169,11 +185,11 @@
 ## General-Purpose Consensus
 - [Raft](https://github.com/pingcap/raft-rs).
   Raft distributed consensus algorithm implemented in Rust.
-- [parsec](https://github.com/maidsafe/parsec).
-  Protocol for Asynchronous, Reliable, Secure and Efficient Consensus.
 - [Honey Badger](https://github.com/poanetwork/hbbft).
   An implementation of the paper "Honey Badger of BFT Protocols" in
   Rust.
+- [Narwhal](https://github.com/MystenLabs/narwhal).
+  The consensus layer used by Sui.
 
 ## P2P Network Libraries
 - [chamomile](https://github.com/placefortea/chamomile).
@@ -229,6 +245,10 @@
 - [SewUp](https://github.com/second-state/SewUp).
   A library to help you build your Ethereum webassembly contract with
   Rust and just like develop in a common backend.
+- [Sienna Network](https://github.com/SiennaNetwork/SiennaNetwork).
+  A privacy-first and cross-chain decentralized finance platform where
+  you can privately swap, lend and convert your tokens into their
+  private equivalent.
 
 ## Other
 - [abscissa](https://github.com/iqlusioninc/abscissa).
